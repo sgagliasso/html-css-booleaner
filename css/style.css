@@ -1,8 +1,8 @@
 /* stile tag */
 
-body{
+*{
     margin: 0px;
-   
+   padding:0%
 }
 header{
     background-image: url("../img/pattern.png");
@@ -12,8 +12,6 @@ header{
     margin: 0px;
     padding: 0px;
     height:100px;
-   
-
 
 }
 
@@ -64,9 +62,6 @@ h1{
 
 footer{
     background-color: darkblue;
-    margin-bottom: 0px;
-    padding: 0px;
-    height:50px;
    width: 100px,
 }
 
